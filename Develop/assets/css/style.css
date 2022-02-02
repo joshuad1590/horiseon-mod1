@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* style for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,7 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* style for a nd p element */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* style for hero and content class */
 .hero {
     height: 800px;
     width: 100%;
@@ -91,7 +91,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* style for benefit column */
 .benefit-column {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +118,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer style */
 footer {
     padding: 30px;
     clear: both;
