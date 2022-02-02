@@ -10,4 +10,7 @@
     6. Cleaned up CSS file by renaming element to match html and removed repeating code. 
     7.  All h tags are in order. 
 # Screenshots
+./assets/images/horiseon1.png
+./assets/images/horiseon2.png
+# Links
 
